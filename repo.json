@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Anya Hichu",
+    "Name": "ScdMusicPlayer",
+    "Punchline": "Music player for penumbra instrument mods.",
+    "Description": "Automates playing custom music using penumbra instrument mods.",
+    "Tags": [
+      "penumbra",
+      "music",
+      "instrument",
+      "playlist",
+      "scd"
+    ],
+    "InternalName": "ScdMusicPlayer",
+    "RepoUrl": "https://github.com/anya-hichu/ScdMusicPlayer",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/anya-hichu/ScdMusicPlayer/releases/download/0.0.0.1/ScdMusicPlayer.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/ScdMusicPlayer/releases/download/0.0.0.1/ScdMusicPlayer.zip",
+    "AssemblyVersion": "1.4.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "10",
+    "Changelog": "",
+    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/ScdMusicPlayer/main/data/icon.png"
+  }
+]
